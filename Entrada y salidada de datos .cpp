@@ -2,8 +2,18 @@
 #include<iostream>
 using namespace std;
 int main (){
-	int numero;
+	float numero; //definiendo la variable 
 	cout<<"digite un numero";
-	cin>>numero;
-	return 0 ;
+	cin>>numero;//guardando la variable 
+
+	cout<<"\nEl numero que digito es: "<<numero;
+
+	return 0;
 }
+
+//comentario de 1 linea 
+
+/*
+comentario de varias lineas permite comentar 
+hasta cerrarlo completamete 
+*/
