@@ -1,0 +1,5 @@
+/*
+escribe un programa que lea la entrada estandar el precio de un 
+producto y mestre en la salidad estandar el precion del producto 
+al aplicarle el IVA
+*/
