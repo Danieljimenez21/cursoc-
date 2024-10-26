@@ -1,0 +1,3 @@
+/*Escriba un programaq que lea de la entrada estandar 
+los dos catetos de un triangulo rectangulo y escriba en 
+la salida estandar su hipotenusa*/
