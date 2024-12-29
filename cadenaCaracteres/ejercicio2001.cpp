@@ -18,8 +18,6 @@ int main(){
     strcpy(cadena2, cadena);
     cout<<"La cadena copiada es: "<<cadena2<<endl;
 
-
-
     system("pause");
     return 0;
 }
